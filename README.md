@@ -1,2 +1,2 @@
 # cppbasics
-Relearning C++ from scratch
+Relearning C++ from the beginning using learncpp.com
